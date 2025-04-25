@@ -1,4 +1,4 @@
-# Ex13 Expression Tree
+# Ex 3(c) Expression Tree
 ## DATE:19-3-25
 ## AIM:
 To write a C function to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
